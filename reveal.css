@@ -39,6 +39,23 @@ a:hover{
     display: flex;
     justify-content: flex-end;
 }   
+
+.b1 button{
+    background-color: #0c2e8a;
+    color: white;
+    font-weight: 600;
+    border: #0c2e8a;
+    width: 161px;
+    height: 46px;
+}
+.button2{
+    background-color: #50d8af;
+    color: white;
+    border: 1px solid #50d8af;
+    font-weight: 600;
+    width: 161px;
+    height: 46px;
+}
 .images{
     margin-right: 18px;
 }
@@ -47,4 +64,24 @@ a:hover{
     justify-content: center;
     font-size: 64px;
     font-weight: 600;
+    text-align: center;
+}
+.underline1{
+text-decoration: underline;
+color: #50d8af;
+
+}
+.yourideas{
+color: #50d8af;
+
+}
+.content2{
+    color: #0c2e8a;
+}
+.banner{
+    background: url(./assets/banner.jpg);
+    height: 47vh;
+    background-size: cover;
+    width: 100%;
+    background-repeat: no-repeat;
 }

@@ -77,6 +77,9 @@ color: #50d8af;
 }
 .content2{
     color: #0c2e8a;
+    font-weight: 600;
+    font-size: 64px;
+
 }
 .banner{
     background: url(./assets/banner.jpg);
@@ -84,4 +87,21 @@ color: #50d8af;
     background-size: cover;
     width: 100%;
     background-repeat: no-repeat;
+}
+.image2{
+    height: auto;
+    width: auto;
+    margin: auto;
+}
+.content3{
+    margin: auto;
+}
+.content5{
+    margin-top: 60px;
+}
+.p1{
+    color: #0c2e8a;
+    font-weight: 700;
+    font-size: 36px;
+    font-family: "Raleway", sans-serif;
 }

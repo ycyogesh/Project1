@@ -2,3 +2,7 @@
     font-family: "Montserrat", sans-serif;
     font-size: 42px;
 }
+.lists{
+    display: flex;
+    justify-content: end;
+}

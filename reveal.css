@@ -124,3 +124,17 @@ svg .check{
 .gutter{
     --bs-gutter-x: 0px;
 } 
+.head4{
+    margin-top: 60px;
+    margin-top: 60px;
+    font-size: 32px;
+    color: #0c2e8a;
+    font-weight: 700;
+    padding-bottom: 3px;
+}
+.head5{
+
+}
+.head6{
+
+}

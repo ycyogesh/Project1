@@ -121,3 +121,6 @@ color: #50d8af;
 svg .check{
     fill:#50d8af;
 }
+.gutter{
+    --bs-gutter-x: 0px;
+} 

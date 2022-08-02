@@ -35,6 +35,16 @@ a:hover{
     display: flex;
     justify-content: space-between;
 }
-.social{
-   
+.button1{
+    display: flex;
+    justify-content: flex-end;
+}   
+.images{
+    margin-right: 18px;
+}
+.content1{
+    display: flex;
+    justify-content: center;
+    font-size: 64px;
+    font-weight: 600;
 }

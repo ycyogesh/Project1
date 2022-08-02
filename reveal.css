@@ -105,3 +105,19 @@ color: #50d8af;
     font-size: 36px;
     font-family: "Raleway", sans-serif;
 }
+.p2{
+    color: #555;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 26px;
+    font-style: italic;
+}
+.p3{
+   
+    color: #444;
+    font-family: "Open Sans", sans-serif;
+    margin-right: 8px;
+}
+svg .check{
+    fill:#50d8af;
+}

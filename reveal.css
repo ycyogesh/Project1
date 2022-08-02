@@ -6,3 +6,12 @@
     display: flex;
     justify-content: end;
 }
+.link{
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
+a:hover{
+    color: aquamarine;
+}
+

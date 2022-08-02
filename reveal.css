@@ -4,14 +4,37 @@
 }
 .lists{
     display: flex;
-    justify-content: end;
+    list-style: none;
 }
 .link{
     text-decoration: none;
     color: black;
     font-weight: 500;
+    padding-right: 20px;
 }
 a:hover{
     color: aquamarine;
 }
+.header{
+    display: flex;
+}
+.menu{
+    margin-left: auto;
+    margin-top: 21px;
+}
+.head2{
+    height: 0.5px;
+    background: #eee;
+}
+.head1{
+    padding-top: 10px;
+    padding-bottom: 10px;
 
+}
+.head3{
+    display: flex;
+    justify-content: space-between;
+}
+.social{
+   
+}
